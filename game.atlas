@@ -3,7 +3,7 @@ size: 128,128
 format: RGBA8888
 filter: MipMapLinearLinear,MipMapLinearLinear
 repeat: none
-BuildingIcons/More Resources
+BuildingIcons/Resource Multiplier
   rotate: false
   xy: 2, 2
   size: 100, 100
