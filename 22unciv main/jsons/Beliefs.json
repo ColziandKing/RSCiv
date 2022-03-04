@@ -60,7 +60,7 @@
    {
         "name": "Synagogue",
         "type": "Follower",
-        "uniques": ["[+4 Faith], [+1 Food] and gain a free [Bazaar] [in this city]"]
+        "uniques": ["[+4 Faith], [+1 Food] and gain a free [Bazaar] [in cities following this religion]"]
     },
    {
         "name": "Holy Fortress",
@@ -90,7 +90,7 @@
     {
         "name": "Jesuit Education",
         "type": "Enhancer",
-        "uniques": ["May buy [University] and [Opera House] buildings [in cities following this religion]"]
+        "uniques": ["May buy [University], [Public School] and [Reasearch Lab] buildings with [Faith] [in cities following this religion]"]
     }
-  
+
 ]
